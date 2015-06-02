@@ -58,10 +58,7 @@ change the admin theme completely, this will overwrite the previous selected col
 
 == Installation ==
 
-
 1. Upload `wp-branding` to the `/wp-content/plugins/` directory or upload the zip file via "add new" upload feature
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. After activating the plugin a new menu item called "Agent Branding" will be added under the "Settings" menu.
 
-== Screenshots ==
-1. Branded login screen example
