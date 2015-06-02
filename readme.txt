@@ -17,7 +17,7 @@ The plugin allows you to easily control some tweaks of the WordPress admin side 
 
 After activating the plugin a new menu item called "Agent Branding" will be added under the "Settings" menu.
 
-==List of features==
+== List of features ==
 
 * Change the login logo  
 * Change logo URL
