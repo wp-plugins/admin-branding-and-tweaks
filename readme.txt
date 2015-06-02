@@ -45,7 +45,7 @@ This will remove the nagging updae notifications for everyone exept Admin
 Main background color for the admin menu items
 16. Hover Text Color: 
 Main color for the text in menu items
-17. Use the "Slater" theme: 
+17. Option to use the "Slate" theme: 
 change the admin theme completely, this will overwrite the previous selected colors
 
 
