@@ -63,3 +63,5 @@ change the admin theme completely, this will overwrite the previous selected col
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. After activating the plugin a new menu item called "Agent Branding" will be added under the "Settings" menu.
 
+== Screenshots ==
+1. Branded login screen example
