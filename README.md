@@ -7,15 +7,13 @@ After activating the plugin a new menu item called "Agent Branding" will be adde
 
 Just get in and start tweaking
 
-List of features
----------------
+==List of features==
 
 * Change the login logo  
 * Change logo URL
 * Change logo Alt text
 * Change the login background
 * Change the login Form Position (left/right/center)
-
 * Change admin footer text
 * Create a custom meta box on the dashboard
 * Remove default admin metaboxes
