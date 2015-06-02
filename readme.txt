@@ -1,5 +1,5 @@
 === Admin Branding and Tweaks  ===
-Contributors: NiviJah
+Contributors: nivijah
 Donate link: NiviJah.com
 Tags: Admin, UI, Hacks, Branding, White Label, admin branding, admin-menu, brand dashboard, branding, custom admin, custom admin dashboard, custom branding, custom login URL, customize login screen, login screen, login url, logo in admin dashboard, own login url, nivijah, admin colors
 Requires at least: 3.0.1
@@ -17,15 +17,13 @@ The plugin allows you to easily control some tweaks of the WordPress admin side 
 
 After activating the plugin a new menu item called "Agent Branding" will be added under the "Settings" menu.
 
-List of features
----------------
+==List of features==
 
 * Change the login logo  
 * Change logo URL
 * Change logo Alt text
 * Change the login background
 * Change the login Form Position (left/right/center)
-
 * Change admin footer text
 * Create a custom meta box on the dashboard
 * Remove default admin metaboxes
