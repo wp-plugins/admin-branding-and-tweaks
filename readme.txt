@@ -17,7 +17,7 @@ The plugin allows you to easily control some tweaks of the WordPress admin side 
 
 After activating the plugin a new menu item called "Agent Branding" will be added under the "Settings" menu.
 
-**List of features**
+**List of Features**
 
 1. Change the login logo  
 2. Change logo URL
@@ -39,7 +39,7 @@ This will add a body class to your website based on different browsers. supports
 14. Remove Update Notifications: 
 This will remove the nagging updae notifications for everyone exept Admin
 
-**colors and theming**
+**Colors and Theming**
 
 15. Change Menu Background: 
 Main background color for the admin menu items
@@ -48,7 +48,9 @@ Main color for the text in menu items
 17. Option to use the "Slate" theme: 
 change the admin theme completely, this will overwrite the previous selected colors
 
+**Coming Soon**
 
+1. Choose a google font for the admin interface
 
 == Installation ==
 
@@ -59,3 +61,4 @@ change the admin theme completely, this will overwrite the previous selected col
 == Screenshots ==
 
 1. Branded login screen example
+
