@@ -51,6 +51,9 @@ change the admin theme completely, this will overwrite the previous selected col
 **Coming Soon**
 
 1. Choose a google font for the admin interface
+2. Remove "Editor" option from appearance manu
+3. Show posts / pages etc IDs.
+4. Remove specific menu items like "themes" for users how are not admins
 
 == Installation ==
 
