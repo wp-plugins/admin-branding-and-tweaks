@@ -48,10 +48,6 @@ Main color for the text in menu items
 17. Option to use the "Slate" theme: 
 change the admin theme completely, this will overwrite the previous selected colors
 
-**Coming Soon**
-
-1. Custom Css Area
-
 == Installation ==
 
 1. Upload `wp-branding` to the `/wp-content/plugins/` directory or upload the zip file via "add new" upload feature
@@ -71,5 +67,5 @@ change the admin theme completely, this will overwrite the previous selected col
 
 == Upgrade Notice ==
 
-= 1.0 =
+= 1.0.1 =
 Added cool new features and rebranded the plugin
