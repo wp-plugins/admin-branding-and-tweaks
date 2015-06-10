@@ -4,7 +4,7 @@ Donate link: NiviJah.com
 Tags: Admin, UI, Hacks, Branding, White Label, admin branding, admin-menu, brand dashboard, branding, custom admin, custom admin dashboard, custom branding, custom login URL, customize login screen, login screen, login url, logo in admin dashboard, own login url, nivijah, admin colors
 Requires at least: 3.0.1
 Tested up to: 4.2.2
-Stable tag: 4.2.2
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -49,17 +49,21 @@ Main color for the text in menu items
 change the admin theme completely, this will overwrite the previous selected colors
 
 **Coming Soon**
+1. Custom Css Area
 
-1. Choose a google font for the admin interface
-2. Remove "Editor" option from appearance manu
-3. Show posts / pages etc IDs.
-4. Remove specific menu items like "themes" for users how are not admins
 
 == Installation ==
 
 1. Upload `wp-branding` to the `/wp-content/plugins/` directory or upload the zip file via "add new" upload feature
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. After activating the plugin a new menu item called "Agent Branding" will be added under the "Settings" menu.
+
+== Changelog ==
+
+= 1.0 =
+1. Show posts / pages etc IDs.
+2. Choose a google font for the admin interface
+3. Re-branding of the plugin.
 
 == Screenshots ==
 
