@@ -52,7 +52,6 @@ change the admin theme completely, this will overwrite the previous selected col
 
 1. Custom Css Area
 
-
 == Installation ==
 
 1. Upload `wp-branding` to the `/wp-content/plugins/` directory or upload the zip file via "add new" upload feature
