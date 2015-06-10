@@ -38,15 +38,22 @@ This will enable you to upload and use SVG's using the native media uploader
 This will add a body class to your website based on different browsers. supports: Opera, firefox, Gecko, Safari, Chrome, NS4, IE with versions.
 14. Remove Update Notifications: 
 This will remove the nagging updae notifications for everyone exept Admin
+15. Show posts / pages etc IDs.
 
 **Colors and Theming**
 
-15. Change Menu Background: 
+16. Change Menu Background: 
 Main background color for the admin menu items
-16. Hover Text Color: 
+17. Hover Text Color: 
 Main color for the text in menu items
-17. Option to use the "Slate" theme: 
+18. Option to use the "Slate" theme: 
 change the admin theme completely, this will overwrite the previous selected colors
+19. Choose a google font for the admin interface
+
+**Coming Soon**
+
+1. Custom CSS Area
+2. Checkbox to use or not the google fonts
 
 == Installation ==
 
