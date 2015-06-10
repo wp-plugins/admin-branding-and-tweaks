@@ -60,7 +60,7 @@ change the admin theme completely, this will overwrite the previous selected col
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.1 =
 1. Show posts / pages etc IDs.
 2. Choose a google font for the admin interface
 3. Re-branding of the plugin.
