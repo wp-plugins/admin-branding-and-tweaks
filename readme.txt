@@ -48,15 +48,15 @@ Main color for the text in menu items
 17. Option to use the "Slate" theme: 
 change the admin theme completely, this will overwrite the previous selected colors
 
-**Coming Soon**
-1. Custom Css Area
-
-
 == Installation ==
 
 1. Upload `wp-branding` to the `/wp-content/plugins/` directory or upload the zip file via "add new" upload feature
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. After activating the plugin a new menu item called "Agent Branding" will be added under the "Settings" menu.
+
+== Screenshots ==
+
+1. Branded login screen example
 
 == Changelog ==
 
@@ -65,7 +65,7 @@ change the admin theme completely, this will overwrite the previous selected col
 2. Choose a google font for the admin interface
 3. Re-branding of the plugin.
 
-== Screenshots ==
+== Upgrade Notice ==
 
-1. Branded login screen example
-
+= 1.0.1 =
+Added cool new features and rebranded the plugin
