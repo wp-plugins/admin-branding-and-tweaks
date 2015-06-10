@@ -49,6 +49,7 @@ Main color for the text in menu items
 change the admin theme completely, this will overwrite the previous selected colors
 
 **Coming Soon**
+
 1. Custom Css Area
 
 
@@ -58,6 +59,10 @@ change the admin theme completely, this will overwrite the previous selected col
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. After activating the plugin a new menu item called "Agent Branding" will be added under the "Settings" menu.
 
+== Screenshots ==
+
+1. Branded login screen example
+
 == Changelog ==
 
 = 1.0 =
@@ -65,7 +70,7 @@ change the admin theme completely, this will overwrite the previous selected col
 2. Choose a google font for the admin interface
 3. Re-branding of the plugin.
 
-== Screenshots ==
+== Upgrade Notice ==
 
-1. Branded login screen example
-
+= 1.0 =
+Added cool new features and rebranded the plugin
