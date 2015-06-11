@@ -1,6 +1,5 @@
 === Admin Branding and Tweaks  ===
 Contributors: nivijah
-Donate link: NiviJah.com
 Tags: Admin, UI, Hacks, Branding, White Label, admin branding, admin-menu, brand dashboard, branding, custom admin, custom admin dashboard, custom branding, custom login URL, customize login screen, login screen, login url, logo in admin dashboard, own login url, nivijah, admin colors
 Requires at least: 3.0.1
 Tested up to: 4.2.2
@@ -71,6 +70,7 @@ change the admin theme completely, this will overwrite the previous selected col
 1. Show posts / pages etc IDs.
 2. Choose a google font for the admin interface
 3. Re-branding of the plugin.
+4. Changed menu label to "WP Branding"
 
 == Upgrade Notice ==
 
