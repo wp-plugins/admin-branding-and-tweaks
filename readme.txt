@@ -53,6 +53,8 @@ change the admin theme completely, this will overwrite the previous selected col
 
 1. Custom CSS Area
 2. Checkbox to use or not the google fonts
+3. Remove WordPress version from Admin
+4. Remove WordPress version from front-end
 
 == Installation ==
 
