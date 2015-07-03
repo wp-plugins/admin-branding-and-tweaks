@@ -3,7 +3,7 @@ Contributors: nivijah
 Tags: Admin, UI, Hacks, Branding, White Label, admin branding, admin-menu, brand dashboard, branding, custom admin, custom admin dashboard, custom branding, custom login URL, customize login screen, login screen, login url, logo in admin dashboard, own login url, nivijah, admin colors
 Requires at least: 3.0.1
 Tested up to: 4.2.2
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -38,23 +38,27 @@ This will add a body class to your website based on different browsers. supports
 14. Remove Update Notifications: 
 This will remove the nagging updae notifications for everyone exept Admin
 15. Show posts / pages etc IDs.
+16. Remove WordPress version from admin footer
 
 **Colors and Theming**
 
-16. Change Menu Background: 
+17. Change Menu Background: 
 Main background color for the admin menu items
-17. Hover Text Color: 
+18. Hover Text Color: 
 Main color for the text in menu items
-18. Option to use the "Slate" theme: 
+19. Option to use the "Slate" theme: 
 change the admin theme completely, this will overwrite the previous selected colors
-19. Choose a google font for the admin interface
+20. Choose a google font for the admin interface
+21. Checkbox to use or not the google fonts
+22. Custom CSS Area
+
+
 
 **Coming Soon**
 
-1. Custom CSS Area
-2. Checkbox to use or not the google fonts
-3. Remove WordPress version from Admin
-4. Remove WordPress version from front-end
+~~1. Custom CSS Area~~
+~~2. Checkbox to use or not the google fonts~~
+~~3. Remove WordPress version from Admin footer~~
 
 == Installation ==
 
@@ -74,7 +78,15 @@ change the admin theme completely, this will overwrite the previous selected col
 3. Re-branding of the plugin.
 4. Changed menu label to "WP Branding"
 
+= 1.0.2 =
+1. Custom CSS Area
+2. Checkbox to use or not the google fonts
+3. Remove WordPress version from Admin footer
+
 == Upgrade Notice ==
 
 = 1.0.1 =
 Added cool new features and rebranded the plugin
+
+= 1.0.2 =
+Added cool new features.
