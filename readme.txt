@@ -1,6 +1,6 @@
 === Admin Branding and Tweaks  ===
 Contributors: nivijah
-Tags: Admin, UI, Hacks, Branding, White Label, admin branding, admin-menu, brand dashboard, branding, custom admin, custom admin dashboard, custom branding, custom login URL, customize login screen, login screen, login url, logo in admin dashboard, own login url, nivijah, admin colors
+Tags: Admin, UI, Hacks, Branding, White Label, admin branding, admin-menu, brand dashboard, branding, custom admin, custom admin dashboard, custom branding, custom login URL, customize login screen, login screen, login url, logo in admin dashboard, own login url, nivijah, admin colors, custom css, custom metabox, remove logo, remove admin bar, svg support, update notification, wordpress version, footer version, admin theming, google fonts, show id, pages id, posts id
 Requires at least: 3.0.1
 Tested up to: 4.2.2
 Stable tag: 1.0.2
