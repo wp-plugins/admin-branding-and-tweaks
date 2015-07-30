@@ -4,7 +4,7 @@
  * Plugin Name: Wordpress Branding
  * Plugin URI: Nivijah.com
  * Description: WP Branding let's you tweak all sort of stuff in WordPress admin side so it fits your brand better.
- * Version: 1.0.2
+ * Version: 1.0.3
  * Author: nivijah
  * Author URI: NiviJah.com
  * License: GPL2
