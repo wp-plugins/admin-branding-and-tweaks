@@ -3,7 +3,7 @@ Contributors: nivijah
 Tags: Admin, UI, Hacks, Branding, White Label, admin branding, admin-menu, brand dashboard, branding, custom admin, custom admin dashboard, custom branding, custom login URL, customize login screen, login screen, login url, logo in admin dashboard, own login url, nivijah, admin colors, custom css, custom metabox, remove logo, remove admin bar, svg support, update notification, wordpress version, footer version, admin theming, google fonts, show id, pages id, posts id
 Requires at least: 3.0.1
 Tested up to: 4.2.2
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -81,6 +81,9 @@ change the admin theme completely, this will overwrite the previous selected col
 2. Checkbox to use or not the google fonts
 3. Remove WordPress version from Admin footer
 
+= 1.0.3 = 
+Logo removal is now standalone and support the Slate theme
+
 == Upgrade Notice ==
 
 = 1.0.1 =
@@ -88,3 +91,6 @@ Added cool new features and rebranded the plugin
 
 = 1.0.2 =
 Added cool new features.
+
+= 1.0.3 = 
+Logo removal is now standalone and support the Slate theme
